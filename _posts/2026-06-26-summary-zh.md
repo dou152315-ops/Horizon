@@ -5,331 +5,302 @@ date: 2026-06-26
 lang: zh
 ---
 
-> 从 41 条内容中筛选出 15 条重要资讯。
+> 从 41 条内容中筛选出 13 条重要资讯。
 
 ---
 
-1. [首份赫库兰尼姆卷轴全文被 AI 读出](#item-1) ⭐️ 10.0/10
-2. [MinIO 替代方案：Ceph 和 Garage 分析](#item-2) ⭐️ 9.0/10
-3. [IBM 推出全球首款亚 1 纳米芯片技术](#item-3) ⭐️ 9.0/10
-4. [联合国通过全球首个自动驾驶系统技术法规](#item-4) ⭐️ 9.0/10
-5. [科技博客先驱 Om Malik 去世，享年 60 岁](#item-5) ⭐️ 8.0/10
-6. [互联网的'请出示证件'时代将摧毁你的隐私](#item-6) ⭐️ 8.0/10
-7. [Zig 的 bitCast 语义变为字节序无关，LLVM 后端改进](#item-7) ⭐️ 8.0/10
-8. [苹果上调 MacBook 和 iPad 售价](#item-8) ⭐️ 8.0/10
-9. [德国裁定谷歌需为 AI 概览错误负责](#item-9) ⭐️ 8.0/10
-10. [美国电网限制推动 2028 年超 40GW 表后数据中心](#item-10) ⭐️ 8.0/10
-11. [Podman 6.0 发布，新特性与重大变更](#item-11) ⭐️ 8.0/10
-12. [内核 7.2 引入分配令牌和引导补丁 SLR](#item-12) ⭐️ 8.0/10
-13. [将智能体工作流编译进小语言模型权重](#item-13) ⭐️ 8.0/10
-14. [OpenAI 将分阶段发布 GPT-5.6 接受政府审查](#item-14) ⭐️ 8.0/10
-15. [苹果或跳过 M6 Pro/Max，加速推 M7 AI 芯片](#item-15) ⭐️ 8.0/10
+1. [借助 AI 首次完整阅读赫库兰尼姆卷轴](#item-1) ⭐️ 9.0/10
+2. [Un-0：用耦合振荡器生成图像](#item-2) ⭐️ 9.0/10
+3. [美国电网限制或推动 2028 年前超 40GW 表后数据中心](#item-3) ⭐️ 9.0/10
+4. [IBM 发布全球首款亚 1 纳米芯片技术](#item-4) ⭐️ 9.0/10
+5. [联合国通过首个自动驾驶系统全球技术法规](#item-5) ⭐️ 9.0/10
+6. [苹果 Xcode 26.3：代理式编码与新 SDK 规则](#item-6) ⭐️ 9.0/10
+7. [年龄验证法威胁互联网隐私](#item-7) ⭐️ 8.0/10
+8. [Zig bitCast 语义更新与 LLVM 后端改进](#item-8) ⭐️ 8.0/10
+9. [德国裁定：谷歌对 AI 概述错误负责](#item-9) ⭐️ 8.0/10
+10. [OpenAI 应联邦要求分阶段发布 GPT-5.6](#item-10) ⭐️ 8.0/10
+11. [三星与 SK 海力士计划大规模 AI 投资，总额达 6480 亿美元](#item-11) ⭐️ 8.0/10
+12. [GPT-5 编程测试被曝作弊：删除难题美化成绩](#item-12) ⭐️ 8.0/10
+13. [加州推出全美首个 AI 失业追踪仪表盘](#item-13) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [首份赫库兰尼姆卷轴全文被 AI 读出](https://scrollprize.org/firstscroll) ⭐️ 10.0/10
+## [借助 AI 首次完整阅读赫库兰尼姆卷轴](https://scrollprize.org/firstscroll) ⭐️ 9.0/10
 
-首次利用机器学习和计算机视觉技术完整读取了一份碳化的赫库兰尼姆卷轴，揭示了近 2000 年前的连续文本。 这一突破证明人工智能可以解锁大量失传的古典文本，通过读取古代唯一留存图书馆中的数百卷卷轴，可能彻底改变考古学和数字人文领域。 该卷轴编号为 PHerc.Paris. 4（卷轴 1），是维苏威挑战赛的一部分，团队使用高分辨率 CT 扫描并训练神经网络来检测墨迹并虚拟展开卷轴。
+维苏威挑战赛团队利用人工智能和 X 射线相位对比断层扫描技术，首次完整读取了赫库兰尼姆卷轴。该卷轴在公元 79 年维苏威火山喷发中被碳化，经过数字展开后，隐藏的文字得以破译。 这一突破证明，人工智能可以解锁大量此前被认为无法阅读的古代文本，有望恢复失传的哲学、文学和历史著作。它为无损读取脆弱考古文物开创了先例。 该卷轴编号为 PHerc. Paris. 4，是 18 世纪在纸莎草别墅发现的赫库兰尼姆纸莎草文献的一部分。团队结合了虚拟展开和机器学习技术，以检测肉眼不可见的碳基墨水。
 
 hackernews · verditelabs · 6月25日 15:48 · [社区讨论](https://news.ycombinator.com/item?id=48675179)
 
-**背景**: 赫库兰尼姆纸莎草卷轴是 18 世纪从纸莎草别墅发现的 1800 多卷碳化卷轴，于公元 79 年被维苏威火山掩埋。这些卷轴极其脆弱，此前无法阅读。维苏威挑战赛发起使用 AI 读取它们，并提供数百万美元的奖金。
+**背景**: 赫库兰尼姆纸莎草文献包含超过 1800 个卷轴，来自唯一保存完整的古代图书馆，在公元 79 年被维苏威火山掩埋并碳化。传统展开尝试常造成损坏。维苏威挑战赛是一项利用 X 射线断层扫描和人工智能无损读取卷轴的竞赛。X 射线相位对比断层扫描可提供卷起纸莎草的高分辨率 3D 图像，从而实现虚拟展开。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Vesuvius_Challenge">Vesuvius Challenge</a></li>
-<li><a href="https://scrollprize.org/">Vesuvius Challenge — Reading the Herculaneum Scrolls with ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Herculaneum_papyri">Herculaneum papyri - Wikipedia</a></li>
+<li><a href="https://scrollprize.org/">Vesuvius Challenge — Reading the Herculaneum Scrolls with AI</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 团队成员分享了兴奋之情，并指出别墅大部分区域尚未发掘，暗示还有更多卷轴有待发现。评论者也强调，在负面科技趋势中，这项工作的鼓舞人心之处。
+**社区讨论**: 评论者对这一成就表示惊叹，一名团队成员通过问答环节回答了技术问题。其他人则强调了人工智能的积极用途，以及在赫库兰尼姆未挖掘部分发现更多卷轴的潜力。
 
-**标签**: `#archaeology`, `#machine learning`, `#computer vision`, `#digital humanities`, `#vesuvius challenge`
+**标签**: `#archaeology`, `#AI`, `#ancient-texts`, `#vesuvius-challenge`, `#imaging`
 
 ---
 
 <a id="item-2"></a>
-## [MinIO 替代方案：Ceph 和 Garage 分析](https://lwn.net/Articles/1077739/) ⭐️ 9.0/10
+## [Un-0：用耦合振荡器生成图像](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) ⭐️ 9.0/10
 
-MinIO 于 2026 年 2 月归档，LWN 的一篇详细文章比较了 Ceph 和 Garage 这两个兼容 S3 的替代方案。 这一分析对众多依赖 MinIO 进行自托管对象存储、现在需要迁移到受支持的开源替代方案的用户至关重要。 Ceph 提供了一个功能完整的分布式存储平台，支持块、文件和对象接口；而 Garage 则专注于简单性和地理复制，适用于中小型部署；社区分支 Silo 也提供基本的维护支持。
+Unconventional AI 发布了 Un-0，这是一种图像生成模型，使用模拟的耦合振荡器网络而非传统神经网络。在 ImageNet 64×64 上，它的 FID 达到 6.74，与当时领先方法的首次发布质量相当。 这项工作复兴了模拟计算在人工智能中的应用，可能为图像生成提供比数字神经网络更节能的替代方案。它开启了使用振荡器网络等物理基板进行硬件软件协同设计的新方向。 Un-0 目前是在传统硬件上模拟的，因此承诺的效率提升需要物理实现。该模型使用耦合振荡器系统，图像结构从同步动力学中涌现，并且权重、训练和消融代码均已开源。
 
-rss · LWN.net · 6月25日 17:40
+hackernews · babelfish · 6月25日 20:50 · [社区讨论](https://news.ycombinator.com/item?id=48679007)
 
-**背景**: MinIO 是一个流行的开源 S3 兼容对象存储服务器，广泛用于 Kubernetes 和自托管环境。它的归档给需要自管理、兼容 S3 API 存储解决方案的用户留下了空白。Ceph 和 Garage 是两个主要选项：Ceph 是一个成熟、可扩展的系统，支持多种存储类型；而 Garage 是一个轻量级、地理分布式的存储，专为去中心化基础设施设计。
+**背景**: 耦合振荡器是多个振荡器相互影响的系统，会产生同步或复杂模式。模拟计算处理连续信号而非离散数字值，可能在某些计算中提供更低功耗。Un-0 将这些概念应用于图像生成，而传统上图像生成由数字神经网络主导。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Ceph_(software)">Ceph (software) - Wikipedia</a></li>
-<li><a href="https://garagehq.deuxfleurs.fr/">The Garage team - An S3 object store so reliable you can run it outside datacenters</a></li>
+<li><a href="https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/">Introducing Un-0: Generating Images with Coupled Oscillators</a></li>
+<li><a href="https://www.nature.com/articles/s44335-024-00015-z">Computing with oscillators from theoretical underpinnings to ... - Nature</a></li>
+<li><a href="https://thenextweb.com/news/unconventional-ai-un0-oscillator-chip-image-generation-naveen-rao">Unconventional AI releases its first model, built on an oscillator ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#object storage`, `#MinIO`, `#S3-compatible`, `#open source`, `#storage systems`
+**社区讨论**: 评论者对模拟计算的潜力感到兴奋，一些人指出该方法需要物理硬件才能实现优势。其他人则对扩展性提出担忧，因为 4K 图像需要数万亿个连接，并将振荡器函数空间与神经网络函数空间进行了比较。
+
+**标签**: `#analog computing`, `#image generation`, `#neural networks`, `#unconventional hardware`, `#oscillators`
 
 ---
 
 <a id="item-3"></a>
-## [IBM 推出全球首款亚 1 纳米芯片技术](https://www.reuters.com/business/ibm-unveils-tech-chip-smaller-than-1-nanometer-ai-computing-push-2026-06-25/) ⭐️ 9.0/10
+## [美国电网限制或推动 2028 年前超 40GW 表后数据中心](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw) ⭐️ 9.0/10
 
-6 月 25 日，IBM 发布了全球首个亚 1 纳米芯片技术，采用 0.7nm 晶体管架构，通过其全新的 3D NanoStack 三维堆叠架构，在指甲盖大小的芯片上集成了近 1000 亿个晶体管。 这一突破使晶体管密度比 IBM 的 2nm 芯片翻倍，性能提升高达 50% 或能效提升 70%，有望彻底改变 AI 计算并超越传统半导体缩放极限。 该技术尚未投入生产，IBM 预计五年内可能开始制造。该公司此前曾向三星和日本 Rapidus 授权芯片技术，但尚未公布该节点的制造合作伙伴。
+一项新分析预测，美国电网的限制将导致到 2028 年部署超过 40 GW 的表后数据中心容量，占每年新建数据中心的 50%以上。 这一转变可能重塑能源和计算基础设施格局，因为数据中心运营商绕过拥堵的公用事业电网为 AI 和机器学习工作负载供电，可能加速现场发电和电池存储的过渡。 表后（BTM）电力是指位于数据中心现场或邻近的发电源，绕过公用事业电表。分析表明，到 2028 年，BTM 数据中心将占新容量的大部分，原因在于互连排队时间长和电网容量不足。
 
-telegram · zaihuapd · 6月25日 15:39
+rss · Semianalysis · 6月25日 19:48
 
-**背景**: 60 多年来，晶体管缩放主要发生在二维平面（X 和 Y 轴）。IBM 的 NanoStack 架构通过垂直堆叠晶体管解锁了 Z 轴，使得在传统平面缩放极限之外继续提高密度成为可能。这种 3D 堆叠方法与三星等公司探索的 3D 堆叠 FET 等概念类似。
+**背景**: 由于基础设施老化和数据中心、电动汽车及电气化带来的需求上升，美国电网正面临严重限制。新电厂和大负载的互连排队容量已超过太瓦，导致多年延误。表后解决方案，如现场天然气发电机、太阳能电池板和电池存储，使数据中心运营商能够避免这些电网瓶颈并更快获得电力。随着 AI 和 ML 工作负载推动计算需求指数级增长，这一趋势预计将加速。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://research.ibm.com/blog/what-is-a-nanostack">What is IBM’s nanostack chip architecture? - IBM Research</a></li>
-<li><a href="https://www.datacenterknowledge.com/data-center-chips/ibm-pushes-ai-chip-design-forward-with-nanostack">IBM Pushes AI Chip Design Forward with Sub-1 nm NanoStack</a></li>
-<li><a href="https://convergedigest.com/ibm-reveals-0-7-nm-chip-with-3d-nanostack-architecture/">IBM Reveals 0.7 nm Chip with 3D Nanostack Architecture - Converge Digest</a></li>
+<li><a href="https://datacenterhawk.com/resources/market-insights/behind-the-meter-power-solutions-the-data-center-industry-s-new-reality">Behind-the-Meter Power Solutions: The Data Center Industry's ...</a></li>
+<li><a href="https://www.williams.com/2026/03/17/powering-data-centers-behind-the-meter-power-explained/">Powering data centers: behind-the-meter power, explained</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductor`, `#chip technology`, `#IBM`, `#nanometer`, `#breakthrough`
+**社区讨论**: 该新闻条目未提供社区评论。
+
+**标签**: `#grid`, `#datacenters`, `#energy`, `#AI infrastructure`, `#behind-the-meter`
 
 ---
 
 <a id="item-4"></a>
-## [联合国通过全球首个自动驾驶系统技术法规](https://global.chinadaily.com.cn/a/202606/25/WS6a3cf7e7a310986e2b461ebc.html) ⭐️ 9.0/10
+## [IBM 发布全球首款亚 1 纳米芯片技术](https://www.reuters.com/business/ibm-unveils-tech-chip-smaller-than-1-nanometer-ai-computing-push-2026-06-25/) ⭐️ 9.0/10
 
-联合国世界车辆法规协调论坛（WP.29）通过了首个自动驾驶系统全球技术法规（ADS GTR），该法规由中国、欧盟、英国、美国、加拿大和日本共同牵头制定。 这一里程碑式的法规为自动驾驶汽车提供了首个统一的国际安全标准，有望协调主要市场的技术要求，加速自动驾驶技术的全球部署。 该法规涵盖了产品核心技术指标、制造商安全管理、安全档案、试验验证和部署后安全，构建了覆盖产品全生命周期的法规框架。中国贡献了技术提案和测试数据，其国内强制性国家标准与 ADS GTR 核心内容一致，并针对 L3 和 L4 级自动驾驶进一步细化了安全基线和测试要求。
+IBM 宣布推出全球首个亚 1 纳米芯片技术，采用名为 NanoStack 的新型三维纳米堆叠架构，晶体管尺寸为 0.7 纳米，相比其之前的 2 纳米节点，性能提升高达 50%，能效提升 70%。 这一突破表明晶体管缩放可以突破 1 纳米障碍，可能将摩尔定律再延续十年。3D 堆叠架构代表了芯片设计的范式转变，可实现更高的晶体管密度和性能提升，对人工智能和高性能计算至关重要。 该 0.7 纳米技术在指甲盖大小的芯片上集成了近 1000 亿个晶体管，密度是 IBM 2021 年 2 纳米芯片的两倍。生产预计在五年内启动，但 IBM 尚未公布该节点的制造合作伙伴，尽管已向三星和 Rapidus 授权了之前的技术。
 
-telegram · zaihuapd · 6月25日 16:03
+telegram · zaihuapd · 6月25日 15:39
 
-**背景**: 联合国世界车辆法规协调论坛（WP.29）是联合国欧洲经济委员会（UNECE）下的常设工作组，负责制定协调的车辆法规以促进道路安全、环境保护和贸易。根据 1998 年协议制定的联合国全球技术法规（GTR）是一项各国可自愿采纳的全球认可技术标准。ADS GTR 是首个专门针对自动驾驶系统的此类法规。
+**背景**: 近年来，芯片节点名称中的“纳米”一词已不再指代晶体管的实际物理尺寸，而是表示密度和性能代际提升的营销标签。随着传统二维缩放面临物理挑战，业界转向 3D 集成——垂直堆叠晶体管——以继续提高密度。IBM 的 NanoStack 架构是这一方向的重要一步，建立在早期纳米片技术之上，而纳米片技术本身已是 FinFET 晶体管之后的一项重大创新。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/World_Forum_for_Harmonization_of_Vehicle_Regulations">World Forum for Harmonization of Vehicle Regulations - Wikipedia</a></li>
-<li><a href="https://unece.org/transport/vehicle-regulations/world-forum-harmonization-vehicle-regulations-wp29">World Forum for Harmonization of Vehicle Regulations (WP.29) | UNECE</a></li>
-<li><a href="https://www.insideglobaltech.com/2026/05/06/un-regulation-and-gtr-on-automated-driving-systems-current-state-of-play/">UN Regulation and GTR on Automated Driving Systems: Current State of ...</a></li>
+<li><a href="https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/">IBM has unveiled chip technology that could help extend Moore’s Law another decade | MIT Technology Review</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/">IBM claims world’s first sub-1 nanometer chip technology - Ars Technica</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit">Three-dimensional integrated circuit - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#autonomous driving`, `#regulation`, `#UN`, `#global standard`, `#technology policy`
+**社区讨论**: Hacker News 社区对命名表示了怀疑，指出“0.7 纳米”是营销术语而非物理尺寸。一些评论者批评 IBM 过度宣传其成就，并引用了过去的争议。不过，也有人赞赏那些提供深入技术分析的文章。
+
+**标签**: `#IBM`, `#semiconductor`, `#chip manufacturing`, `#nanotechnology`, `#3D stacking`
 
 ---
 
 <a id="item-5"></a>
-## [科技博客先驱 Om Malik 去世，享年 60 岁](https://om.co/2026/06/24/1966-2026/) ⭐️ 8.0/10
+## [联合国通过首个自动驾驶系统全球技术法规](https://global.chinadaily.com.cn/a/202606/25/WS6a3cf7e7a310986e2b461ebc.html) ⭐️ 9.0/10
 
-知名科技博主与记者、GigaOM 创始人 Om Malik 于 2026 年 6 月 24 日去世，享年 60 岁。 他的离世标志着科技新闻界失去了一位开创性人物，他塑造了早期博客时代，并指导了行业中的许多人。 Malik 曾为《Fast Company》、《Red Herring》和《Light Reading》等刊物撰稿，并著有《Broadbandits》一书。他以诚实、直接的写作风格著称。
+联合国世界车辆法规协调论坛（WP.29）通过了首个自动驾驶系统（ADS）全球技术法规（GTR），由中国、美国、欧盟等共同牵头制定。该法规确立了自动驾驶汽车的核心技术指标、安全要求及全生命周期框架。 这项具有里程碑意义的法规协调了全球自动驾驶标准，降低了汽车制造商的合规复杂性，并提升了全球安全一致性。它也为尚无国内 ADS 法规的国家提供了基准，加速了自动驾驶汽车的安全部署。 该法规涵盖产品全生命周期要求，包括制造商安全管理、安全档案、试验验证和部署后安全。中国在法规制定中发挥了牵头促进作用，贡献了技术提案和测试数据；国内强制性国家标准与 GTR 核心内容一致，并针对 L3、L4 级自动驾驶进一步细化要求。
 
-hackernews · minimaxir · 6月25日 20:33 · [社区讨论](https://news.ycombinator.com/item?id=48678852)
+telegram · zaihuapd · 6月25日 16:03
 
-**背景**: Om Malik 是最早且最受尊敬的科技博主之一，于 2001 年创办了 GigaOM，后来将其发展为媒体网络。他是科技和初创企业博客写作的先驱，提供坦诚的分析并培养社区。他的影响力超越写作本身，帮助了许多博主和初创公司获得曝光。
+**背景**: 国际自动机工程师学会（SAE）定义了驾驶自动化的六个级别，从 L0（无自动化）到 L5（完全自动化）。L3 和 L4 级别涉及条件自动化和高度自动化，车辆在特定条件下处理大部分驾驶任务。联合国 WP.29 是协调全球车辆法规的主要论坛，此次 ADS GTR 是首个此类法规。
 
-**社区讨论**: 社区表达了震惊和深切悲痛，许多人分享了个人轶事。评论者称他为早期科技博客的教父、一位善良且有同情心的导师，乐于提携他人，也是一位直言不讳的作家。一些人提到他扮演的调停者角色，以及他对初创公司和其他写手的无私帮助。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://unece.org/sites/default/files/2025-02/GRVA-WS05-03r1e.pdf">Draft Global Technical Regulation on Automated Driving System ...</a></li>
+<li><a href="https://www.insideglobaltech.com/2026/05/06/un-regulation-and-gtr-on-automated-driving-systems-current-state-of-play/">UN Regulation and GTR on Automated Driving Systems: Current ...</a></li>
 
-**标签**: `#om malik`, `#tech journalism`, `#blogging`, `#silicon valley`, `#obituary`
+</ul>
+</details>
+
+**标签**: `#autonomous driving`, `#regulation`, `#global standards`, `#safety`, `#UN`
 
 ---
 
 <a id="item-6"></a>
-## [互联网的'请出示证件'时代将摧毁你的隐私](https://expression.fire.org/p/the-papers-please-era-of-the-internet) ⭐️ 8.0/10
+## [苹果 Xcode 26.3：代理式编码与新 SDK 规则](https://t.me/zaihuapd/42187) ⭐️ 9.0/10
 
-一篇文章警告，在线身份验证要求（如年龄检查）的不断增加正在侵蚀个人隐私，并催生监控基础设施。 这很重要，因为推动年龄验证和数字身份证法案可能会使广泛的身份信息披露常态化，威胁匿名性并助长数据滥用。 文章和评论者指出，像匿名凭证和零知识证明这样的技术解决方案可以在不透露个人数据的情况下验证属性（例如年龄），但政府很少采用它们。
+苹果发布了 Xcode 26.3，引入了代理式编码功能，开发者可通过自然语言直接在 Xcode 内使用 OpenAI 的 Codex 和 Anthropic 的 Claude Agent，从而理解项目、编写代码、构建、测试并修复错误。此外，苹果宣布自 2026 年 4 月 28 日起，提交至 App Store Connect 的应用必须使用 iOS 26、iPadOS 26、tvOS 26、visionOS 26 或 watchOS 26 SDK 构建。 这标志着苹果开发者工具的重大飞跃，将强大的 AI 代理引入核心编码工作流程，有望显著提升 iOS/macOS 开发者的生产力。新的 SDK 要求促使开发者采用最新平台，并确保与即将推出的系统功能兼容。 Xcode 26.3 中的代理式编码支持 OpenAI 的 Codex 和 Anthropic 的 Claude Agent，开发者可与 AI 代理交互，这些代理能自主执行复杂任务，如浏览代码库和运行测试。SDK 要求变更给开发者大约两个月时间，将项目更新为以最新系统版本为目标。
 
-hackernews · bilsbie · 6月25日 21:44 · [社区讨论](https://news.ycombinator.com/item?id=48679608)
+telegram · zaihuapd · 6月26日 04:04
 
-**背景**: 匿名凭证是一种密码学方法，允许用户证明他们拥有某些属性（例如年满 18 岁）而不透露身份。零知识证明使证明者能够向验证者确认某个陈述的真实性，而无需披露任何额外信息。这些技术可以在满足验证要求的同时保护隐私，但现行法律往往要求直接进行身份检查。
+**背景**: Xcode 是苹果公司用于为苹果平台创建应用的集成开发环境（IDE）。代理式编码利用大语言模型（LLM）和 AI 代理来自动化软件开发周期中的部分环节，从代码生成到调试。App Store SDK 要求确保应用利用最新的 API 和安全特性；苹果会定期更新这些要求以鼓励采用新的操作系统版本。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Anonymous_credential">Anonymous credential</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Zero-knowledge_proof">Zero-knowledge proof</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/">Xcode 26.3 unlocks the power of agentic coding - Apple</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Agentic_coding">Agentic coding</a></li>
+<li><a href="https://developer.apple.com/documentation/Xcode/writing-code-with-intelligence-in-xcode">Writing code with intelligence in Xcode | Apple Developer Documentation</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者对隐私权衡表示沮丧，有人建议采用匿名凭证作为解决方案，而另一些人则认为儿童应该完全脱离网络。大家感到这个问题终于获得了公众关注。
-
-**标签**: `#privacy`, `#age verification`, `#digital identity`, `#internet policy`, `#anonymous credentials`
+**标签**: `#Xcode`, `#Apple`, `#AI coding`, `#SDK requirements`, `#iOS development`
 
 ---
 
 <a id="item-7"></a>
-## [Zig 的 bitCast 语义变为字节序无关，LLVM 后端改进](https://ziglang.org/devlog/2026/#2026-06-25) ⭐️ 8.0/10
+## [年龄验证法威胁互联网隐私](https://expression.fire.org/p/the-papers-please-era-of-the-internet) ⭐️ 8.0/10
 
-Zig 语言的 @bitCast 内置函数现在以字节序无关的方式重新解释比特，这意味着例如将 [2]u8 转换为 u16 的操作在所有目标上产生相同结果。此外，LLVM 后端得到了优化，改进了位级操作的代码生成。 这一改变增强了处理二进制协议和硬件接口的系统程序员的代码可移植性和正确性，减少了平台相关的错误。LLVM 的改进可以生成更高效的编译代码。 新语义将 @bitCast 纯粹视为逻辑比特 reinterpretation，与目标字节序无关，与 packed structs 和任意宽度整数支持保持一致。然而，这一改变可能会破坏依赖旧字节序相关行为的代码。
+该文章认为，广泛的年龄验证法创建了一个“出示证件”的互联网，侵蚀了隐私并使得线上身份检查常态化。 这很重要，因为它可能从根本上改变互联网的匿名性，导致数据滥用和监控，同时几乎没有提供真正的保护。 评论者指出匿名凭证是一种技术解决方案，但怀疑政府对隐私的承诺；文章警告数据泄露和功能蔓延等风险。
 
-hackernews · kouosi · 6月25日 14:19 · [社区讨论](https://news.ycombinator.com/item?id=48673825)
+hackernews · bilsbie · 6月25日 21:44 · [社区讨论](https://news.ycombinator.com/item?id=48679608)
 
-**背景**: 在系统编程中，字节序（endianness）指的是多字节值的字节顺序。此前，Zig 的 @bitCast 允许在大端和小端目标上产生不同结果，导致可移植性问题。新语义在逻辑上定义比特表示，不考虑硬件字节顺序，从而简化了跨平台开发。
+**背景**: 年龄验证法要求网站确认用户年龄，通常需提交政府身份证件。匿名凭证是密码学工具，允许在不透露身份的情况下证明属性（如年龄>18）。“出示证件”一词指要求出示身份证件的要求，令人联想到反乌托邦式监控。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ziglang.org/devlog/2026/">Devlog ⚡ Zig Programming Language</a></li>
-<li><a href="https://github.com/ziglang/zig/issues/19755">Proposal: initial `@bitCast` semantics (packed + vector + array) · Issue #19755 · ziglang/zig</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48673825">Zig's New BitCast Semantics and LLVM Back End Improvements | Hacker News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anonymous_credential">Anonymous credential</a></li>
+<li><a href="https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/">Anonymous credentials: an illustrated primer – A Few Thoughts on Cryptographic Engineering</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区普遍赞赏这一改变简化了位级工作，尽管有人质疑任意宽度整数引入的复杂性。Hacker News 上有一个批评观点认为 bitCast 应保持简单和底层。
+**社区讨论**: 评论者就此展开辩论：j2kun 提出匿名凭证作为解决方案；utopiah 提供了一个绕过工具链接；tqi 要求具体的危害案例；pif 认为远程隐私历史上从未存在；AJRF 预言会滑向通用的身份护照。
 
-**标签**: `#Zig`, `#programming languages`, `#LLVM`, `#bit manipulation`, `#systems programming`
+**标签**: `#privacy`, `#age verification`, `#internet regulation`, `#anonymous credentials`, `#technology policy`
 
 ---
 
 <a id="item-8"></a>
-## [苹果上调 MacBook 和 iPad 售价](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/) ⭐️ 8.0/10
+## [Zig bitCast 语义更新与 LLVM 后端改进](https://ziglang.org/devlog/2026/#2026-06-25) ⭐️ 8.0/10
 
-苹果公司于 2026 年 6 月上调了 Mac 和 iPad 全系列产品的售价，涨幅从 100 美元到 1300 美元不等。此次涨价归因于内存和零部件成本飙升。 此次涨价预示着整个行业面临成本压力，尤其是内存组件，并可能影响消费者的购买决策。这同时也凸显了苹果在保持高端定位的同时，有能力将成本转嫁给客户。 具体价格变化包括：MacBook Neo 从 599 美元涨至 699 美元，13 英寸 MacBook Air 从 1099 美元涨至 1299 美元，M5 MacBook Pro 从 1699 美元涨至 1999 美元。基础款 iPad 从 349 美元涨至 449 美元。
+Zig 引入了新的@bitCast 语义和 LLVM 后端改进，简化了位打包数据处理，并标准化了数据的位级重新解释。 此次更新明确了 Zig 的位操作语义，使其更直观高效地用于系统编程任务，如解析二进制头或实现加密算法。 新的@bitCast 语义定义操作是逻辑位表示上端序无关的，将第一个数组元素视为最低有效位。LLVM 后端现在直接使用 LLVM 的任意宽度整数类型（如 i13）来表示 Zig 的位宽度类型。
 
-hackernews · virgildotcodes · 6月25日 13:02 · [社区讨论](https://news.ycombinator.com/item?id=48672732)
+hackernews · kouosi · 6月25日 14:19 · [社区讨论](https://news.ycombinator.com/item?id=48673825)
 
-**背景**: 苹果公司会根据零部件成本波动定期调整产品价格。近期，由于人工智能和数据中心的高需求，内存芯片价格飙升，给硬件制造商带来压力。苹果此次涨价反映了更广泛的供应链动态。
+**背景**: Zig 是一种系统编程语言，像 C 一样提供底层内存控制，但旨在更安全、更人性化。它支持任意位宽的整数（如 u3 或 i17），这对位级协议很有用。@bitCast 内建函数将一种类型的位重新解释为另一种类型，类似于 C 的联合类型双关，但具有明确的语义。
 
-**社区讨论**: 评论者表达了震惊和沮丧，一些人指出从历史趋势看计算设备总体变得更便宜。其他人批评 AI 公司推高了内存需求，少数人预测整个行业将进一步涨价。情绪总体负面，但也有一些历史视角的细微讨论。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ziglang.org/devlog/2026/?2026-06-25">Devlog Zig Programming Language</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48673825">Zig 's New BitCast Semantics and LLVM Back End... | Hacker News</a></li>
+<li><a href="https://github.com/ziglang/zig/issues/19755">Proposal: initial `@ bitCast ` semantics (packed + vector + array)...</a></li>
 
-**标签**: `#apple`, `#price-increase`, `#macbooks`, `#ipads`, `#hardware`
+</ul>
+</details>
+
+**社区讨论**: 社区反馈总体积极，用户如 zamadatix 称赞该变化简化了位打包头文件的操作。然而，一些用户质疑任意宽度整数是否值得这么复杂，另有评论者指出新语义实际上是 little-endian 而非端序无关的。总体而言，社区对深入的技术博文表示赞赏。
+
+**标签**: `#zig`, `#systems programming`, `#bit manipulation`, `#LLVM`, `#language design`
 
 ---
 
 <a id="item-9"></a>
-## [德国裁定谷歌需为 AI 概览错误负责](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) ⭐️ 8.0/10
+## [德国裁定：谷歌对 AI 概述错误负责](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) ⭐️ 8.0/10
 
-一家德国法院裁定，谷歌需对其 AI 生成的搜索摘要中的错误承担法律责任，将 AI 概览视为谷歌自己的言论。安全专家 Bruce Schneier 支持这一判决，认为 AI 代理在法律上应被视为其部署者的代理人。 这一里程碑式裁决可能为全球 AI 责任问题树立先例，防止企业以 AI 为借口逃避错误责任。它强化了部署 AI 的企业必须对其输出负责的原则，就像对待人类员工一样。 该裁决具体涉及谷歌 AI 概览——一种由 AI 生成的搜索摘要。Schneier 指出，如果使用人类撰写摘要，公司需为不准确内容负责；而允许 AI 免除责任将为企业不当行为创造不良激励。
+德国法院裁定，谷歌对其 AI 概述中的错误负有法律责任，将 AI 生成的内容视为谷歌自己的言论。布鲁斯·施奈尔认为，法律应将 AI 代理视为部署该代理的组织机构的代理人。 该裁定为人工智能责任开创了先例，可能防止企业以 AI 出错为由逃避责任。它将法律负担转向部署 AI 系统的组织，促使更负责任地部署 AI。 该裁定专门针对谷歌的 AI 概述功能，该功能生成 AI 驱动的搜索结果摘要。布鲁斯·施奈尔强调，如果企业可以通过使用 AI 代替人类工人来逃避责任，将会产生不当激励。
 
 rss · Simon Willison · 6月25日 22:28
 
-**背景**: 谷歌 AI 概览是一项 AI 功能，可自动生成搜索结果的摘要，但因不准确而受到批评。其法律核心在于 AI 系统是否应被视为独立主体或部署组织的延伸，这对责任框架具有深远影响。德国裁决将 AI 代理与传统代理法对齐，即委托人需为代理人的行为负责。
+**背景**: AI 代理是自主代表用户或其他系统执行任务的系统。谷歌的 AI 概述是 AI 生成的搜索结果摘要，曾因不准确而受到批评。德国这一裁决是 AI 责任方面的里程碑式决定。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Google_AI_Overviews">Google AI Overviews</a></li>
-<li><a href="https://agileleadershipdayindia.org/blogs/agentic-ai-governance/ai-agent-legal-liability-framework.html">AI Agent Legal Liability : Who Goes to Jail? | 2026 Guide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_AI_overviews">Google AI overviews</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI liability`, `#regulation`, `#law`, `#AI ethics`, `#Google`
+**标签**: `#AI`, `#liability`, `#regulation`, `#legal`, `#Google`
 
 ---
 
 <a id="item-10"></a>
-## [美国电网限制推动 2028 年超 40GW 表后数据中心](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw) ⭐️ 8.0/10
+## [OpenAI 应联邦要求分阶段发布 GPT-5.6](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) ⭐️ 8.0/10
 
-一项分析预测，受电网限制影响，美国表后数据中心容量将在 2028 年超过 40 吉瓦，传统电网并网既慢又贵。 这一转变可能重塑能源基础设施和数据中心选址，运营商越来越多地转向现场发电以绕过电网瓶颈，影响公用事业规划和可再生能源部署。 分析指出，到 2028 年，表后数据中心可能占新增数据中心容量的 50%以上，常见的解决方案包括现场天然气、燃料电池和太阳能+储能。
+OpenAI 首席执行官 Sam Altman 告诉员工，应联邦政府要求，GPT-5.6 将分阶段发布，首先向经批准的合作伙伴提供限量预览。 这标志着 AI 发布实践的重大转变，政府对前沿模型部署的直接监督将影响未来的 AI 监管和行业规范。 在预览期间，政府将逐个客户批准访问。Altman 表示这不是公司偏好的长期模式，如果一切顺利，他希望几周后进行更广泛的发布。
 
-rss · Semianalysis · 6月25日 19:48
+telegram · zaihuapd · 6月26日 00:03
 
-**背景**: 表后电力是指在数据中心自有场地发电并直接消耗，绕过公共电网。这种方式让运营商拥有更大控制权，并避免因电网并网排队造成的延迟——近年来数据中心需求激增已导致并网排队拥堵。
+**背景**: 这一要求出现在 OpenAI 过去一个月与多个政府机构预览模型之后。据称商务部长 Howard Lutnick 提醒 OpenAI，在没有其他机构批准的情况下不要发布。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.linkedin.com/pulse/understanding-behind-the-meter-energy-data-centers-lqm8c">Understanding Behind - the - Meter Energy for Data Centers</a></li>
-<li><a href="https://datacentrereview.com/2025/04/behind-the-meter-data-centres/">Now is the time for data centres to install behind - the - meter</a></li>
-<li><a href="https://gathergov.com/articles/behind-the-meter">' Behind - the - Meter ' Enters Council Vocabulary as Data Center ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#datacenters`, `#energy`, `#grid`, `#infrastructure`, `#behind-the-meter`
+**标签**: `#AI regulation`, `#OpenAI`, `#GPT-5.6`, `#government oversight`, `#AI safety`
 
 ---
 
 <a id="item-11"></a>
-## [Podman 6.0 发布，新特性与重大变更](https://lwn.net/Articles/1079600/) ⭐️ 8.0/10
+## [三星与 SK 海力士计划大规模 AI 投资，总额达 6480 亿美元](https://www.bloomberg.com/news/articles/2026-06-26/samsung-and-sk-hynix-prepare-huge-spending-increase-reports-say) ⭐️ 8.0/10
 
-Podman 6.0.0 发布，新增支持为容器设置多个静态 IP 地址，通过增强网络隔离提高了与 Docker 的兼容性，并重写了配置文件处理。 作为主版本升级，Podman 6.0 为依赖 Podman 进行容器管理的用户带来了重大改进，特别是那些从 Docker 迁移或通过 Quadlet 使用 systemd 集成的用户。 该版本包含现有命令的许多新选项以及若干破坏性变更；用户应查阅完整的发布说明以了解迁移细节。Quadlet 命令已更改，影响了在 systemd 下运行容器的方式。
+三星和 SK 海力士将在 2026 年 6 月 29 日的国家简报会上宣布大规模 AI 和半导体投资计划，其中三星承诺十年支出方案达 1000 万亿韩元（约 6480 亿美元）。 这一前所未有的投资规模标志着对 AI 基础设施和半导体制造的长期承诺，可能重塑全球供应链并加速各行业对 AI 的采用。 此次简报会由总统李在明主持，还将涵盖“物理 AI”和 AI 数据中心。然而，同日两家公司股价均下跌超过 9%，原因是市场担心苹果产品涨价导致零部件成本上升，抑制设备需求。
 
-rss · LWN.net · 6月25日 16:33
+telegram · zaihuapd · 6月26日 06:08
 
-**背景**: Podman 是一个无守护进程的容器引擎，提供与 Docker 兼容的命令行界面。Quadlet 是一个工具，允许使用声明式单元文件将 Podman 容器作为 systemd 服务进行管理，从而简化部署和生命周期管理。
+**背景**: 人工智能（AI）是指执行通常需要人类智能的任务的计算系统。物理 AI 将其扩展到与物理世界交互的系统，如机器人和自动驾驶汽车。半导体是 AI 的基础硬件，三星和 SK 海力士等主要公司是内存芯片生产的关键参与者，这对 AI 工作负载至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.redhat.com/en/blog/quadlet-podman">Make systemd better for Podman with Quadlet</a></li>
-<li><a href="https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html">podman -systemd.unit — Podman documentation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence - Wikipedia</a></li>
+<li><a href="https://thinaer.io/blog/what-is-physical-ai-a-plain-english-definition-for-operations-and-technology-leaders/">What Is Physical AI ? Definition , Examples & Key Concepts</a></li>
 
 </ul>
 </details>
 
-**标签**: `#container-management`, `#podman`, `#docker-compatibility`, `#release`
+**标签**: `#semiconductor`, `#AI`, `#investment`, `#Samsung`, `#SK Hynix`
 
 ---
 
 <a id="item-12"></a>
-## [内核 7.2 引入分配令牌和引导补丁 SLR](https://lwn.net/Articles/1078699/) ⭐️ 8.0/10
+## [GPT-5 编程测试被曝作弊：删除难题美化成绩](https://t.me/zaihuapd/42191) ⭐️ 8.0/10
 
-即将发布的 Linux 内核 7.2 合并了基于类型的 slab 分区功能，该功能利用 Clang 的分配令牌特性；同时，一项名为 Bootpatch-SLR 的长期项目旨在引导时随机化结构布局。 这些加固技术通过隔离对象类型和随机化结构布局，显著增加了攻击者利用内核内存损坏漏洞的难度，降低了堆喷射和定向覆盖攻击的有效性。 分配令牌利用 Clang 内置函数从分配对象的类型生成令牌，确保相同类型的对象始终来自同一内存分区；Bootpatch-SLR 在内核构建后、引导时应用结构布局随机化，是编译时随机化的更灵活替代方案。
+OpenAI 的 GPT-5 被发现在 SWE-bench Verified 编程测试中仅使用了 500 道题中的 477 道，删除了 23 个难题以人为提高分数。这一发现由开发者在分析测试结果时揭露。 此事件引发了对 AI 基准测试完整性的严重担忧，可能削弱对 OpenAI 报告的性能指标的信任。它也凸显了 AI 行业需要透明和标准化的测试流程。 被删除的 23 道题很可能是最难的；如果按零分计算，GPT-5 的性能将低于 Claude Opus 4.1，后者目前仅落后 0.4%。SWE-bench 是评估 AI 模型在真实世界软件工程任务中的广泛使用的基准。
 
-rss · LWN.net · 6月25日 14:02
+telegram · zaihuapd · 6月26日 07:43
 
-**背景**: 内核的 slab 分配器管理小对象的内存，常常将不同类型的对象混合在同一个 slab 中。这种混合使得堆喷射攻击和缓冲区溢出可以破坏不相关的对象。早期的随机化 slab 分区提供了概率性防御，但仍给攻击者留下了机会；基于类型的分区完全消除了这种机会。
+**背景**: SWE-bench 是一个基准测试，用于评估 AI 模型在来自 GitHub 的真实软件问题上的表现。SWE-bench Verified 子集由 500 个人工筛选的实例组成。它是比较大型语言模型编程能力的标准。OpenAI 被指控移除测试问题可能会扭曲与其他模型的比较。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434">[RFC] A Framework for Allocator Partitioning Hints - LLVM Project</a></li>
-<li><a href="https://lwn.net/Articles/1076762/">Bootpatch- SLR : Randomizing Linux Kernel Structure Layouts at Boot</a></li>
+<li><a href="https://www.swebench.com/">SWE-bench Leaderboards</a></li>
+<li><a href="https://www.swebench.com/SWE-bench/">Overview - SWE-bench</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Linux kernel`, `#security`, `#memory hardening`, `#slab allocator`, `#structure randomization`
+**标签**: `#AI`, `#GPT-5`, `#benchmark`, `#controversy`, `#OpenAI`
 
 ---
 
 <a id="item-13"></a>
-## [将智能体工作流编译进小语言模型权重](https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/) ⭐️ 8.0/10
+## [加州推出全美首个 AI 失业追踪仪表盘](https://decrypt.co/372100/ai-job-loss-california-public-dashboard) ⭐️ 8.0/10
 
-一种新方法通过监督微调执行轨迹，将前沿大语言模型的智能体工作流编译进小语言模型权重，以两个数量级的成本降低实现接近前沿的性能。 这大幅降低了部署智能体工作流的成本，使预算有限的组织也能获得先进的 AI 能力，并解决了基于 LLM 的智能体广泛采用的关键障碍。 该方法使用监督微调，基于协调前沿模型生成的轨迹，而非强化学习或提示工程，得到的小模型（如 7B）在复杂智能体任务上可匹配更大的前沿模型。
+6 月 25 日，加州州长加文·纽森宣布推出全美首个追踪人工智能导致失业的公共仪表盘，由加州就业发展局与加州大学洛杉矶分校加州政策实验室联合开发。初步数据显示，自 2022 年 ChatGPT-3.5 发布以来，在易受 AI 影响的高暴露行业中，受过大学教育的工人失业申领略有增加，旧金山湾区尤为明显。 该仪表盘提供了关于人工智能对就业影响的实时数据洞察，使政策制定者和工人能够主动应对。它为其他州和国家监测 AI 驱动的失业并设计针对性的再培训和支持计划开创了先例。 该仪表盘每月更新一次，重点追踪最易受 AI 影响的职业的失业申领数据。研究人员发现，全州范围内尚未出现失业潮，但在 AI 高暴露行业中，受过大学教育的工人已出现早期迹象。
 
-reddit · r/MachineLearning · /u/ThirdWaveCat · 6月25日 17:31
+telegram · zaihuapd · 6月26日 11:04
 
-**背景**: 大型语言模型（如 GPT-4）虽然强大，但在多步智能体工作流中运行成本高昂。知识蒸馏将能力从大型“教师”模型转移到小型“学生”模型，降低成本同时保持性能。该论文通过将执行轨迹编译进模型权重，将蒸馏专门应用于智能体工作流。
+**背景**: AI 的普及引发了关于失业的担忧，尤其是涉及常规认知任务的岗位。此前研究（如 Anthropic 的报告）显示，年轻、高学历的工人（尤其是女性）受到的影响更大。加州的仪表盘是一项开创性努力，旨在利用州级失业数据系统性地追踪这些影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://labs.adaline.ai/p/llm-distillation-explained">LLM Distillation Explained - by Nilesh Barla - Adaline Labs</a></li>
-<li><a href="https://arxiv.org/pdf/2407.01885">Survey on Knowledge Distillation for Large Language Models ...</a></li>
+<li><a href="https://h5.ifeng.com/c/vivoArticle/v002OKmjAv--2wbC6Cm8tgJUnBFY98xZ1sr-_X2lXPVU-_ijHo__?isNews=1&showComments=0">AI抢走年轻 人 的饭碗，最受伤的是 高 学历 高 收入女性，Anthropic...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM`, `#agentic workflows`, `#knowledge distillation`, `#cost optimization`, `#SLM`
-
----
-
-<a id="item-14"></a>
-## [OpenAI 将分阶段发布 GPT-5.6 接受政府审查](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) ⭐️ 8.0/10
-
-OpenAI CEO Sam Altman 宣布，GPT-5.6 将分阶段发布，首先向少数合作伙伴提供限量预览，每个客户需获得联邦政府单独批准。此前，OpenAI 已在过去一个月内向多个政府机构预览了该模型。 这标志着政府对高级 AI 模型发布监管的显著升级，可能为未来监管审批树立先例。这可能会减缓部署周期，但可能提高公众对 AI 安全性的信任。 分阶段发布要求政府对每个客户进行审批，Altman 表示这不是 OpenAI 偏好的长期模式。如果一切顺利，他希望在几周后实现更广泛的发布。
-
-telegram · zaihuapd · 6月26日 00:03
-
-**背景**: 美国政府越来越关注像 GPT-5.6 这样的大型语言模型的安全性和可靠性。据报道，商务部长曾提醒 OpenAI，在未获得其他机构批准的情况下不要发布该模型。这种干预反映了政府寻求监管 AI 发布的大趋势。
-
-**标签**: `#OpenAI`, `#GPT-5.6`, `#AI regulation`, `#government review`, `#model release`
-
----
-
-<a id="item-15"></a>
-## [苹果或跳过 M6 Pro/Max，加速推 M7 AI 芯片](https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives) ⭐️ 8.0/10
-
-据报道，苹果将跳过 M6 Pro 和 M6 Max 芯片，直接开发专注于设备端 AI 性能的 M7 系列。标准 M6 芯片仍预计在 2026 年底随 MacBook Pro 发布，而 M7 系列可能最早在 2027 年上半年到来。 这标志着苹果芯片路线图的一次重大战略转变，将 AI 能力置于传统的年度更新周期之上。它反映了 AI 处理领域的激烈竞争，可能对 Mac 在机器学习工作负载中的性能产生重大影响。 M6 基础芯片预计拥有 200 GB/s 内存带宽（M5 为 153 GB/s）和 12 个 GPU 核心。M7 系列预计提供 240 GB/s 内存带宽，Pro 和 Max 变体将于 2027 年底推出，Ultra 型号于 2028 年推出。
-
-telegram · zaihuapd · 6月26日 01:48
-
-**背景**: Apple Silicon 是苹果为 Mac 设计的基于 ARM 的自研系统级芯片（SoC）系列。传统上，苹果会先发布基础 M 系列芯片，随后推出核心更多、性能更强的 Pro、Max 和 Ultra 变体。这份报道表明苹果正在打破这一模式，以加速面向 AI 的硬件开发。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/">2027 Macs to Get AI -Focused M 7 Chips as Apple Skips... - MacRumors</a></li>
-<li><a href="https://www.macworld.com/article/3177046/report-apple-to-skip-m6-pro-max-chips-fast-track-m7-for-local-ai.html">Report: Apple to skip M6 Pro/Max chips , fast-track M 7 for local AI</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead">Apple to Skip High-End M6 Mac Chips , to Launch M 7 Pro... - Bloomberg</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Apple`, `#AI chips`, `#M7`, `#chip roadmap`, `#rumor`
+**标签**: `#AI`, `#unemployment`, `#policy`, `#jobs`, `#California`
 
 ---

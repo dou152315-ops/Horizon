@@ -5,331 +5,302 @@ date: 2026-06-26
 lang: en
 ---
 
-> From 41 items, 15 important content pieces were selected
+> From 41 items, 13 important content pieces were selected
 
 ---
 
-1. [First Entire Herculaneum Scroll Read Using AI](#item-1) ⭐️ 10.0/10
-2. [MinIO Alternatives: Ceph and Garage Analyzed](#item-2) ⭐️ 9.0/10
-3. [IBM Unveils World's First Sub-1nm Chip Technology](#item-3) ⭐️ 9.0/10
-4. [UN adopts world's first global technical regulation for automated driving systems](#item-4) ⭐️ 9.0/10
-5. [Om Malik, Tech Blogging Pioneer, Dies at 60](#item-5) ⭐️ 8.0/10
-6. [The 'papers, please' era of the internet will decimate your privacy](#item-6) ⭐️ 8.0/10
-7. [Zig's bitCast semantics become endian-agnostic, LLVM improved](#item-7) ⭐️ 8.0/10
-8. [Apple raises prices on MacBooks and iPads](#item-8) ⭐️ 8.0/10
-9. [German Ruling Holds Google Liable for AI Overview Errors](#item-9) ⭐️ 8.0/10
-10. [US Grid Constraints Drive 40GW+ Behind-The-Meter Datacenters by 2028](#item-10) ⭐️ 8.0/10
-11. [Podman 6.0 Released with Enhanced Features and Breaking Changes](#item-11) ⭐️ 8.0/10
-12. [Kernel 7.2 introduces allocation tokens and Bootpatch-SLR](#item-12) ⭐️ 8.0/10
-13. [Compiling Agentic Workflows into Small LLM Weights](#item-13) ⭐️ 8.0/10
-14. [OpenAI to Release GPT-5.6 in Phases Under Government Review](#item-14) ⭐️ 8.0/10
-15. [Apple may skip M6 Pro/Max, fast-track M7 AI chips](#item-15) ⭐️ 8.0/10
+1. [First Complete Herculaneum Scroll Read via AI](#item-1) ⭐️ 9.0/10
+2. [Un-0: Generating Images with Coupled Oscillators](#item-2) ⭐️ 9.0/10
+3. [US Grid Constraints May Drive 40GW+ Behind-the-Meter Datacenters by 2028](#item-3) ⭐️ 9.0/10
+4. [IBM Unveils World's First Sub-1nm Chip Technology](#item-4) ⭐️ 9.0/10
+5. [UN Adopts First Global Technical Regulation for Autonomous Driving](#item-5) ⭐️ 9.0/10
+6. [Apple Xcode 26.3: Agentic Coding & New SDK Rules](#item-6) ⭐️ 9.0/10
+7. [Age verification laws threaten internet privacy](#item-7) ⭐️ 8.0/10
+8. [Zig's new bitCast semantics and LLVM backend improvements](#item-8) ⭐️ 8.0/10
+9. [German Ruling: Google Liable for AI Overview Errors](#item-9) ⭐️ 8.0/10
+10. [OpenAI to Stage Release of GPT-5.6 per Federal Request](#item-10) ⭐️ 8.0/10
+11. [Samsung, SK Hynix Plan Massive AI Investments Totaling $648B](#item-11) ⭐️ 8.0/10
+12. [GPT-5 Accused of Benchmark Cheating by Deleting Hard Problems](#item-12) ⭐️ 8.0/10
+13. [California Launches First US AI Job Displacement Dashboard](#item-13) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [First Entire Herculaneum Scroll Read Using AI](https://scrollprize.org/firstscroll) ⭐️ 10.0/10
+## [First Complete Herculaneum Scroll Read via AI](https://scrollprize.org/firstscroll) ⭐️ 9.0/10
 
-For the first time, an entire carbonized Herculaneum scroll has been read using machine learning and computer vision, revealing continuous text from nearly 2,000 years ago. This breakthrough demonstrates that AI can unlock vast amounts of lost classical texts, potentially revolutionizing archaeology and digital humanities by enabling the reading of hundreds of scrolls from the only surviving library of antiquity. The scroll, known as PHerc.Paris. 4 (Scroll 1), was part of the Vesuvius Challenge, and the team used high-resolution CT scans and trained neural networks to detect ink and unwrap the scroll virtually.
+The Vesuvius Challenge team has achieved the first complete reading of a Herculaneum scroll using AI and X-ray phase-contrast tomography. The scroll, carbonized by the eruption of Mount Vesuvius in 79 AD, was digitally unwrapped and its hidden text deciphered. This breakthrough demonstrates that AI can unlock vast troves of ancient texts previously considered unreadable, potentially recovering lost works of philosophy, literature, and history. It sets a precedent for non-destructive reading of fragile archaeological artifacts. The scroll, designated PHerc. Paris. 4, is part of the Herculaneum papyri discovered in the 18th century at the Villa of the Papyri. The team used a combination of virtual unwrapping and machine learning to detect the carbon-based ink that is invisible to the naked eye.
 
 hackernews · verditelabs · Jun 25, 15:48 · [Discussion](https://news.ycombinator.com/item?id=48675179)
 
-**Background**: The Herculaneum papyri are over 1,800 carbonized scrolls discovered in the 18th century from the Villa of the Papyri, buried by Mount Vesuvius in 79 AD. The scrolls are extremely fragile and previously unreadable. The Vesuvius Challenge was launched to use AI to read them, offering millions in prizes.
+**Background**: The Herculaneum papyri are over 1,800 scrolls from the only surviving ancient library, buried and carbonized by Vesuvius in 79 AD. Traditional attempts to unroll them often caused damage. The Vesuvius Challenge is a competition that uses X-ray tomography and AI to read the scrolls non-invasively. X-ray phase-contrast tomography provides high-resolution 3D images of the rolled papyrus, allowing virtual unwrapping.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Vesuvius_Challenge">Vesuvius Challenge</a></li>
-<li><a href="https://scrollprize.org/">Vesuvius Challenge — Reading the Herculaneum Scrolls with ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Herculaneum_papyri">Herculaneum papyri - Wikipedia</a></li>
+<li><a href="https://scrollprize.org/">Vesuvius Challenge — Reading the Herculaneum Scrolls with AI</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Team members shared excitement and noted that a significant portion of the Villa remains unexcavated, hinting at many more scrolls to be found. Commenters also highlighted the inspiring nature of this work amidst negative tech trends.
+**Discussion**: Commenters expressed awe at the achievement, with one team member offering to answer technical questions via an AMA. Others highlighted the positive use of AI and the potential for discovering more scrolls in unexcavated parts of Herculaneum.
 
-**Tags**: `#archaeology`, `#machine learning`, `#computer vision`, `#digital humanities`, `#vesuvius challenge`
+**Tags**: `#archaeology`, `#AI`, `#ancient-texts`, `#vesuvius-challenge`, `#imaging`
 
 ---
 
 <a id="item-2"></a>
-## [MinIO Alternatives: Ceph and Garage Analyzed](https://lwn.net/Articles/1077739/) ⭐️ 9.0/10
+## [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) ⭐️ 9.0/10
 
-MinIO was archived in February 2026, and a detailed LWN article compares Ceph and Garage as S3-compatible alternatives. This analysis is critical for the many users who relied on MinIO for self-hosted object storage and now need to migrate to a supported open-source alternative. Ceph provides a full-featured distributed storage platform with block, file, and object interfaces, while Garage focuses on simplicity and geo-replication for small to medium deployments; a community fork named Silo also offers basic maintenance.
+Unconventional AI has released Un-0, an image generation model that uses a simulated network of coupled oscillators rather than conventional neural networks. On ImageNet 64×64 it achieves an FID of 6.74, matching the quality of leading methods from when they were first published. This work revives analog computing concepts for AI, potentially offering a more energy-efficient alternative to digital neural networks for image generation. It opens up a new direction for hardware-software co-design using physical substrates like oscillator networks. Un-0 is currently simulated on conventional hardware, so the promised efficiency gains require physical implementation. The model uses a system of coupled oscillators where image structure emerges from synchronization dynamics, and weights, training, and ablation code are open-sourced.
 
-rss · LWN.net · Jun 25, 17:40
+hackernews · babelfish · Jun 25, 20:50 · [Discussion](https://news.ycombinator.com/item?id=48679007)
 
-**Background**: MinIO was a popular open-source S3-compatible object storage server widely used in Kubernetes and self-hosted environments. Its archival leaves a gap for users needing a self-managed, S3-API-compatible storage solution. Ceph and Garage are two prominent options: Ceph is a mature, scalable system with multiple storage types, while Garage is a lightweight, geo-distributed store designed for decentralized infrastructure.
+**Background**: Coupled oscillators are systems where multiple oscillators influence each other, leading to synchronization or complex patterns. Analog computing processes continuous signals rather than discrete digital values, potentially offering lower power for certain computations. Un-0 applies these concepts to image generation, traditionally dominated by digital neural networks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Ceph_(software)">Ceph (software) - Wikipedia</a></li>
-<li><a href="https://garagehq.deuxfleurs.fr/">The Garage team - An S3 object store so reliable you can run it outside datacenters</a></li>
+<li><a href="https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/">Introducing Un-0: Generating Images with Coupled Oscillators</a></li>
+<li><a href="https://www.nature.com/articles/s44335-024-00015-z">Computing with oscillators from theoretical underpinnings to ... - Nature</a></li>
+<li><a href="https://thenextweb.com/news/unconventional-ai-un0-oscillator-chip-image-generation-naveen-rao">Unconventional AI releases its first model, built on an oscillator ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#object storage`, `#MinIO`, `#S3-compatible`, `#open source`, `#storage systems`
+**Discussion**: Commenters expressed excitement about analog computing's potential, with some noting that the approach needs physical hardware to realize benefits. Others raised concerns about scaling, as 4K images would require trillions of connections, and compared the oscillator function space to neural network function spaces.
+
+**Tags**: `#analog computing`, `#image generation`, `#neural networks`, `#unconventional hardware`, `#oscillators`
 
 ---
 
 <a id="item-3"></a>
-## [IBM Unveils World's First Sub-1nm Chip Technology](https://www.reuters.com/business/ibm-unveils-tech-chip-smaller-than-1-nanometer-ai-computing-push-2026-06-25/) ⭐️ 9.0/10
+## [US Grid Constraints May Drive 40GW+ Behind-the-Meter Datacenters by 2028](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw) ⭐️ 9.0/10
 
-On June 25, IBM announced the world's first sub-1 nanometer chip technology with a 0.7nm transistor architecture, using its new 3D NanoStack stacking architecture to pack nearly 100 billion transistors onto a fingernail-sized chip. This breakthrough doubles transistor density compared to IBM's 2nm chip and offers up to 50% performance improvement or 70% energy efficiency, potentially revolutionizing AI computing and semiconductor scaling beyond traditional limits. The technology is not yet in production; IBM estimates manufacturing could begin within five years. The company has previously licensed chip technology to Samsung and Japan's Rapidus, but has not announced a manufacturing partner for this node.
+A new analysis predicts that grid constraints in the United States will lead to over 40 GW of behind-the-meter datacenter capacity being deployed by 2028, representing more than 50% of new datacenter builds annually. This shift could reshape the energy and computing infrastructure landscape, as datacenter operators bypass the congested utility grid to power AI and machine learning workloads, potentially accelerating the transition to onsite generation and battery storage. Behind-the-meter (BTM) power refers to generation sources located on or adjacent to a datacenter site, bypassing the utility meter. The analysis suggests that by 2028, BTM datacenters will account for a majority of new capacity, driven by long interconnection queues and insufficient grid capacity.
 
-telegram · zaihuapd · Jun 25, 15:39
+rss · Semianalysis · Jun 25, 19:48
 
-**Background**: For over 60 years, transistor scaling has primarily occurred in two dimensions (X and Y axes). IBM's NanoStack architecture unlocks the Z axis by stacking transistors vertically, enabling continued density increases beyond the limits of traditional planar scaling. This 3D stacking approach is similar to concepts like 3D stacked FETs being explored by other companies.
+**Background**: The US electric grid is facing significant constraints due to aging infrastructure and rising demand from datacenters, electric vehicles, and electrification. Interconnection queues for new power plants and large loads have grown to over a terawatt of capacity, causing multi-year delays. Behind-the-meter solutions, such as onsite natural gas generators, solar panels, and battery storage, allow datacenter operators to avoid these grid bottlenecks and secure power more quickly. This trend is expected to accelerate as AI and ML workloads drive exponential growth in computing demand.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://research.ibm.com/blog/what-is-a-nanostack">What is IBM’s nanostack chip architecture? - IBM Research</a></li>
-<li><a href="https://www.datacenterknowledge.com/data-center-chips/ibm-pushes-ai-chip-design-forward-with-nanostack">IBM Pushes AI Chip Design Forward with Sub-1 nm NanoStack</a></li>
-<li><a href="https://convergedigest.com/ibm-reveals-0-7-nm-chip-with-3d-nanostack-architecture/">IBM Reveals 0.7 nm Chip with 3D Nanostack Architecture - Converge Digest</a></li>
+<li><a href="https://datacenterhawk.com/resources/market-insights/behind-the-meter-power-solutions-the-data-center-industry-s-new-reality">Behind-the-Meter Power Solutions: The Data Center Industry's ...</a></li>
+<li><a href="https://www.williams.com/2026/03/17/powering-data-centers-behind-the-meter-power-explained/">Powering data centers: behind-the-meter power, explained</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#chip technology`, `#IBM`, `#nanometer`, `#breakthrough`
+**Discussion**: No community comments were provided for this news item.
+
+**Tags**: `#grid`, `#datacenters`, `#energy`, `#AI infrastructure`, `#behind-the-meter`
 
 ---
 
 <a id="item-4"></a>
-## [UN adopts world's first global technical regulation for automated driving systems](https://global.chinadaily.com.cn/a/202606/25/WS6a3cf7e7a310986e2b461ebc.html) ⭐️ 9.0/10
+## [IBM Unveils World's First Sub-1nm Chip Technology](https://www.reuters.com/business/ibm-unveils-tech-chip-smaller-than-1-nanometer-ai-computing-push-2026-06-25/) ⭐️ 9.0/10
 
-The United Nations World Forum for Harmonization of Vehicle Regulations (WP.29) has adopted the first Global Technical Regulation (GTR) for Automated Driving Systems (ADS), co-led by China, the EU, the UK, the US, Canada, and Japan. This landmark regulation provides the first unified international safety standard for autonomous vehicles, potentially harmonizing requirements across major markets and accelerating global deployment of self-driving technology. The regulation covers product core technical indicators, manufacturer safety management, safety archives, test verification, and post-deployment safety, creating a lifecycle regulatory framework. China contributed technical proposals and test data, and its domestic mandatory standard aligns with the ADS GTR, with added details for L3 and L4 levels.
+IBM announced the world's first sub-1nm chip technology, featuring a 0.7nm transistor architecture using a novel 3D nano-stacking design called NanoStack, which delivers up to 50% better performance or 70% energy efficiency compared to its previous 2nm node. This breakthrough demonstrates that transistor scaling can continue beyond the 1nm barrier, potentially extending Moore's Law for another decade. The 3D stacking architecture represents a paradigm shift in chip design, enabling significantly higher transistor density and performance gains crucial for AI and high-performance computing. The 0.7nm technology integrates nearly 100 billion transistors on a fingernail-sized die, doubling the density of IBM's 2021 2nm chip. Production is expected to start within five years, but IBM has not yet announced a manufacturing partner for this node, though it has licensed previous technologies to Samsung and Rapidus.
 
-telegram · zaihuapd · Jun 25, 16:03
+telegram · zaihuapd · Jun 25, 15:39
 
-**Background**: The UN World Forum for Harmonization of Vehicle Regulations (WP.29) is a permanent working party under the United Nations Economic Commission for Europe (UNECE) that develops harmonized vehicle regulations to promote road safety, environmental protection, and trade. A UN Global Technical Regulation (GTR) under the 1998 Agreement is a globally recognized technical standard that countries can adopt voluntarily. The ADS GTR is the first such regulation specifically for automated driving systems.
+**Background**: In recent years, the term 'nanometer' in chip node names no longer refers to any physical dimension of transistors; it is a marketing label indicating generational improvements in density and performance. As traditional 2D scaling becomes physically challenging, the industry has turned to 3D integration—stacking transistors vertically—to continue increasing density. IBM's NanoStack architecture is a significant step in this direction, building on its earlier nanosheet technology, which itself was a major innovation over FinFET transistors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/World_Forum_for_Harmonization_of_Vehicle_Regulations">World Forum for Harmonization of Vehicle Regulations - Wikipedia</a></li>
-<li><a href="https://unece.org/transport/vehicle-regulations/world-forum-harmonization-vehicle-regulations-wp29">World Forum for Harmonization of Vehicle Regulations (WP.29) | UNECE</a></li>
-<li><a href="https://www.insideglobaltech.com/2026/05/06/un-regulation-and-gtr-on-automated-driving-systems-current-state-of-play/">UN Regulation and GTR on Automated Driving Systems: Current State of ...</a></li>
+<li><a href="https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/">IBM has unveiled chip technology that could help extend Moore’s Law another decade | MIT Technology Review</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/">IBM claims world’s first sub-1 nanometer chip technology - Ars Technica</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit">Three-dimensional integrated circuit - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#autonomous driving`, `#regulation`, `#UN`, `#global standard`, `#technology policy`
+**Discussion**: The Hacker News community expressed skepticism about the naming, noting that '0.7nm' is a marketing term rather than a physical measurement. Some commenters criticized IBM for overselling its achievements, citing past controversies. However, others appreciated the technical explainers providing deeper analysis of the innovation.
+
+**Tags**: `#IBM`, `#semiconductor`, `#chip manufacturing`, `#nanotechnology`, `#3D stacking`
 
 ---
 
 <a id="item-5"></a>
-## [Om Malik, Tech Blogging Pioneer, Dies at 60](https://om.co/2026/06/24/1966-2026/) ⭐️ 8.0/10
+## [UN Adopts First Global Technical Regulation for Autonomous Driving](https://global.chinadaily.com.cn/a/202606/25/WS6a3cf7e7a310986e2b461ebc.html) ⭐️ 9.0/10
 
-Om Malik, the influential tech blogger and journalist known for founding GigaOM, passed away on June 24, 2026, at age 60. His death marks the loss of a seminal figure in tech journalism who shaped the early blogging era and mentored many in the industry. Malik wrote for publications like Fast Company, Red Herring, and Light Reading, and authored the book 'Broadbandits'. He was known for his honest, direct writing style.
+The United Nations World Forum for Harmonization of Vehicle Regulations (WP.29) has adopted the first Global Technical Regulation (GTR) for Automated Driving Systems (ADS), co-led by China, the United States, the European Union, and others. This regulation establishes core technical indicators, safety requirements, and a lifecycle framework for autonomous vehicles. This landmark regulation harmonizes autonomous driving standards across global markets, reducing compliance complexity for automakers and enhancing safety consistency worldwide. It also provides a baseline for countries without domestic ADS regulations, accelerating the safe deployment of autonomous vehicles. The regulation covers product lifecycle requirements including manufacturer safety management, safety archives, test validation, and post-deployment safety. China played a leading role by contributing technical proposals and test data, and its domestic mandatory standard is aligned with the GTR, with additional refinement for Level 3 and Level 4 automation.
 
-hackernews · minimaxir · Jun 25, 20:33 · [Discussion](https://news.ycombinator.com/item?id=48678852)
+telegram · zaihuapd · Jun 25, 16:03
 
-**Background**: Om Malik was one of the earliest and most respected tech bloggers, launching GigaOM in 2001 and later turning it into a media network. He was a pioneer in blogging about technology and startups, offering candid analysis and fostering community. His influence extended beyond writing; he helped many bloggers and startups gain visibility.
+**Background**: The Society of Automotive Engineers (SAE) defines six levels of driving automation, from Level 0 (no automation) to Level 5 (full automation). Levels 3 and 4 involve conditional and high automation, where the vehicle handles most driving tasks under specific conditions. The UN WP.29 is the primary global forum for harmonizing vehicle regulations, and this ADS GTR is the first of its kind.
 
-**Discussion**: The community expressed shock and deep sadness, with many sharing personal anecdotes. Commenters described him as a godfather of early tech blogging, a kind and compassionate mentor who lifted others up, and a brutally honest writer. Several noted his role as a mediator and his selfless help to startups and fellow writers.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://unece.org/sites/default/files/2025-02/GRVA-WS05-03r1e.pdf">Draft Global Technical Regulation on Automated Driving System ...</a></li>
+<li><a href="https://www.insideglobaltech.com/2026/05/06/un-regulation-and-gtr-on-automated-driving-systems-current-state-of-play/">UN Regulation and GTR on Automated Driving Systems: Current ...</a></li>
 
-**Tags**: `#om malik`, `#tech journalism`, `#blogging`, `#silicon valley`, `#obituary`
+</ul>
+</details>
+
+**Tags**: `#autonomous driving`, `#regulation`, `#global standards`, `#safety`, `#UN`
 
 ---
 
 <a id="item-6"></a>
-## [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) ⭐️ 8.0/10
+## [Apple Xcode 26.3: Agentic Coding & New SDK Rules](https://t.me/zaihuapd/42187) ⭐️ 9.0/10
 
-An article warns that increasing identity verification requirements online, such as age checks, are eroding personal privacy and creating a surveillance infrastructure. This matters because the push for age verification and digital ID laws could normalize widespread identity disclosure, threatening anonymity and enabling data misuse. The article and commenters highlight that technical solutions like anonymous credentials and zero-knowledge proofs can verify attributes (e.g., age) without revealing personal data, but governments rarely adopt them.
+Apple released Xcode 26.3, introducing agentic coding that lets developers use OpenAI's Codex and Anthropic's Claude Agent directly within Xcode via natural language to understand projects, write code, build, test, and fix errors. Additionally, Apple announced that starting April 28, 2026, apps submitted to App Store Connect must be built with iOS 26, iPadOS 26, tvOS 26, visionOS 26, or watchOS 26 SDKs. This marks a major leap in Apple's developer tools, bringing powerful AI agents into the core coding workflow, which could significantly boost productivity for iOS/macOS developers. The new SDK requirement pushes developers to adopt the latest platforms and ensures compatibility with upcoming OS features. Agentic coding in Xcode 26.3 supports both OpenAI's Codex and Anthropic's Claude Agent, allowing developers to interact with AI agents that can autonomously perform complex tasks like navigating codebases and running tests. The SDK requirement change gives developers about two months to update their projects to target the latest OS versions.
 
-hackernews · bilsbie · Jun 25, 21:44 · [Discussion](https://news.ycombinator.com/item?id=48679608)
+telegram · zaihuapd · Jun 26, 04:04
 
-**Background**: Anonymous credentials are a cryptographic method that allows a user to prove they possess certain attributes (e.g., being over 18) without revealing their identity. Zero-knowledge proofs enable a prover to convince a verifier of a statement's truth without disclosing any additional information. These technologies could protect privacy while meeting verification requirements, but current laws often mandate direct identity checks.
+**Background**: Xcode is Apple's integrated development environment (IDE) for creating apps for Apple platforms. Agentic coding uses large language models (LLMs) and AI agents to automate parts of the software development lifecycle, from code generation to debugging. App Store SDK requirements ensure that apps leverage the latest APIs and security features; Apple periodically updates these requirements to encourage adoption of new OS releases.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Anonymous_credential">Anonymous credential</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Zero-knowledge_proof">Zero-knowledge proof</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/">Xcode 26.3 unlocks the power of agentic coding - Apple</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Agentic_coding">Agentic coding</a></li>
+<li><a href="https://developer.apple.com/documentation/Xcode/writing-code-with-intelligence-in-xcode">Writing code with intelligence in Xcode | Apple Developer Documentation</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters express frustration with the privacy trade-off, with some suggesting anonymous credentials as a solution, while others argue that children should be offline altogether. There is a sense that this issue is finally gaining public attention.
-
-**Tags**: `#privacy`, `#age verification`, `#digital identity`, `#internet policy`, `#anonymous credentials`
+**Tags**: `#Xcode`, `#Apple`, `#AI coding`, `#SDK requirements`, `#iOS development`
 
 ---
 
 <a id="item-7"></a>
-## [Zig's bitCast semantics become endian-agnostic, LLVM improved](https://ziglang.org/devlog/2026/#2026-06-25) ⭐️ 8.0/10
+## [Age verification laws threaten internet privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) ⭐️ 8.0/10
 
-The Zig language's @bitCast built-in now reinterprets bits in an endian-agnostic manner, meaning operations like converting [2]u8 to u16 yield the same result on all targets. Additionally, the LLVM back end received optimizations improving code generation for bit-level operations. This change enhances portability and correctness for systems programmers dealing with binary protocols and hardware interfaces, reducing platform-specific bugs. The LLVM improvements can lead to more efficient compiled code. The new semantics treat @bitCast purely as a logical bit reinterpretation, independent of target endianness, aligning with packed structs and arbitrary-width integer support. However, the change may break code that relied on the old endian-dependent behavior.
+The article argues that widespread age verification laws create a 'papers, please' internet that erodes privacy and normalizes identity checks online. This matters because it could fundamentally change the internet's anonymity, enabling data misuse and surveillance while offering little real protection. Commenters point to anonymous credentials as a technological solution, but doubt governments' commitment to privacy; the article warns of risks like data breaches and function creep.
 
-hackernews · kouosi · Jun 25, 14:19 · [Discussion](https://news.ycombinator.com/item?id=48673825)
+hackernews · bilsbie · Jun 25, 21:44 · [Discussion](https://news.ycombinator.com/item?id=48679608)
 
-**Background**: In systems programming, endianness refers to the byte order of multi-byte values. Previously, Zig's @bitCast allowed results to differ between big-endian and little-endian targets, causing portability issues. The new semantics define bit representation logically without regard to hardware byte order, simplifying cross-platform development.
+**Background**: Age verification laws require websites to confirm users' ages, often by submitting government ID. Anonymous credentials are cryptographic tools that allow proving attributes (e.g., age>18) without revealing identity. The term 'papers, please' refers to demands for ID documents, reminiscent of dystopian surveillance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ziglang.org/devlog/2026/">Devlog ⚡ Zig Programming Language</a></li>
-<li><a href="https://github.com/ziglang/zig/issues/19755">Proposal: initial `@bitCast` semantics (packed + vector + array) · Issue #19755 · ziglang/zig</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48673825">Zig's New BitCast Semantics and LLVM Back End Improvements | Hacker News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anonymous_credential">Anonymous credential</a></li>
+<li><a href="https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/">Anonymous credentials: an illustrated primer – A Few Thoughts on Cryptographic Engineering</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community largely applauded the change for simplifying bit-level work, though some questioned the complexity introduced for arbitrary-width integers. A critical viewpoint on Hacker News argued that bitCast should remain simple and low-level.
+**Discussion**: Commenters debate the issue: j2kun suggests anonymous credentials as a solution; utopiah links to a bypass tool; tqi asks for concrete examples of harm; pif argues remote privacy never existed historically; AJRF predicts a slippery slope to universal identity passports.
 
-**Tags**: `#Zig`, `#programming languages`, `#LLVM`, `#bit manipulation`, `#systems programming`
+**Tags**: `#privacy`, `#age verification`, `#internet regulation`, `#anonymous credentials`, `#technology policy`
 
 ---
 
 <a id="item-8"></a>
-## [Apple raises prices on MacBooks and iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/) ⭐️ 8.0/10
+## [Zig's new bitCast semantics and LLVM backend improvements](https://ziglang.org/devlog/2026/#2026-06-25) ⭐️ 8.0/10
 
-Apple has increased prices across its Mac and iPad lineup by $100 to $1,300, effective June 2026. The price hikes are attributed to skyrocketing memory and component costs. This price increase signals broader industry-wide cost pressures, particularly in memory components, and may affect consumer purchasing decisions. It also underscores Apple's ability to pass costs to customers while maintaining premium positioning. Specific price changes include the MacBook Neo rising from $599 to $699, the 13-inch MacBook Air from $1,099 to $1,299, and the M5 MacBook Pro from $1,699 to $1,999. iPad base model increased from $349 to $449.
+Zig introduces new @bitCast semantics and LLVM backend improvements that simplify bit-packed data handling and standardize bit-level reinterpreting of data. This update clarifies Zig's bit manipulation semantics, making it more intuitive and efficient for systems programming tasks such as parsing binary headers or implementing cryptographic algorithms. The new @bitCast semantics define that the operation is endian-agnostic for logical bit representation, treating the first array element as the least significant bits. The LLVM backend now directly uses LLVM's arbitrary-width integer types (e.g., i13) for Zig's bit-width types.
 
-hackernews · virgildotcodes · Jun 25, 13:02 · [Discussion](https://news.ycombinator.com/item?id=48672732)
+hackernews · kouosi · Jun 25, 14:19 · [Discussion](https://news.ycombinator.com/item?id=48673825)
 
-**Background**: Apple periodically adjusts product prices in response to component cost fluctuations. Recently, memory chip prices have surged due to high demand from AI and data centers, putting pressure on hardware manufacturers. Apple's price increases reflect these broader supply chain dynamics.
+**Background**: Zig is a systems programming language that, like C, gives low-level control over memory but aims to be safer and more ergonomic. It supports integers of arbitrary bit widths, such as u3 or i17, which are useful for bit-level protocols. The @bitCast built-in function reinterprets the bits of one type as another type, similar to C's union type punning but with explicit semantics.
 
-**Discussion**: Commenters expressed shock and frustration, with some noting historical trends where computing has become cheaper overall. Others criticized AI companies for driving up memory demand, and a few predicted further industry-wide price increases. The sentiment was largely negative but with some nuanced historical perspective.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ziglang.org/devlog/2026/?2026-06-25">Devlog Zig Programming Language</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48673825">Zig 's New BitCast Semantics and LLVM Back End... | Hacker News</a></li>
+<li><a href="https://github.com/ziglang/zig/issues/19755">Proposal: initial `@ bitCast ` semantics (packed + vector + array)...</a></li>
 
-**Tags**: `#apple`, `#price-increase`, `#macbooks`, `#ipads`, `#hardware`
+</ul>
+</details>
+
+**Discussion**: Community feedback is generally positive, with users like zamadatix praising the simplification for working with bit-packed headers. However, some users question the value of arbitrary-width integers versus manual packing, and one commenter notes that the new semantics are explicitly little-endian rather than endian-agnostic. Overall, the community appreciates the in-depth technical devlog.
+
+**Tags**: `#zig`, `#systems programming`, `#bit manipulation`, `#LLVM`, `#language design`
 
 ---
 
 <a id="item-9"></a>
-## [German Ruling Holds Google Liable for AI Overview Errors](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) ⭐️ 8.0/10
+## [German Ruling: Google Liable for AI Overview Errors](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) ⭐️ 8.0/10
 
-A German court ruled that Google is legally liable for errors in its AI-generated search summaries, treating the AI overviews as Google's own words. Security expert Bruce Schneier endorsed the decision, arguing that AI agents should be considered legal agents of their deployers. This landmark ruling could set a precedent for AI liability worldwide, preventing companies from using AI as a shield against responsibility for errors. It reinforces that businesses deploying AI must own the outputs, just as they would with human employees. The ruling specifically concerns Google AI Overviews, which generate AI-written summaries of search results. Schneier noted that if human writers were used, the company would be liable for inaccuracies, and allowing AI to absolve liability would create perverse incentives for corporate misbehavior.
+A German court ruled that Google is legally liable for errors in its AI Overviews, treating the AI-generated content as Google's own words. Bruce Schneier argues that AI agents should be considered agents of the deploying organization under the law. This ruling sets a precedent for AI liability, potentially preventing companies from escaping responsibility by blaming faulty AI. It shifts the legal burden to organizations deploying AI systems, encouraging more responsible deployment. The ruling specifically applies to Google's AI Overviews, which generate AI-powered summaries of search results. Bruce Schneier highlights the perverse incentives if companies could avoid liability by using AI instead of human workers.
 
 rss · Simon Willison · Jun 25, 22:28
 
-**Background**: Google AI Overviews is an AI feature that produces automatically generated summaries of search results, which has faced criticism for inaccuracies. The legal principle at stake is whether AI systems can be treated as independent agents or as extensions of the deploying organization, with profound implications for liability frameworks. The German ruling aligns AI agents with traditional agency law, where a principal is responsible for an agent's actions.
+**Background**: AI agents are systems that autonomously perform tasks on behalf of users or other systems. Google's AI Overviews are AI-generated summaries of search results, which have faced criticism for inaccuracies. The German ruling marks a landmark decision on AI liability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Google_AI_Overviews">Google AI Overviews</a></li>
-<li><a href="https://agileleadershipdayindia.org/blogs/agentic-ai-governance/ai-agent-legal-liability-framework.html">AI Agent Legal Liability : Who Goes to Jail? | 2026 Guide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_AI_overviews">Google AI overviews</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI liability`, `#regulation`, `#law`, `#AI ethics`, `#Google`
+**Tags**: `#AI`, `#liability`, `#regulation`, `#legal`, `#Google`
 
 ---
 
 <a id="item-10"></a>
-## [US Grid Constraints Drive 40GW+ Behind-The-Meter Datacenters by 2028](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw) ⭐️ 8.0/10
+## [OpenAI to Stage Release of GPT-5.6 per Federal Request](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) ⭐️ 8.0/10
 
-An analysis predicts that behind-the-meter datacenter capacity in the US will exceed 40 gigawatts by 2028, driven by grid constraints that make traditional grid interconnection slow and costly. This shift could reshape energy infrastructure and datacenter siting, as operators increasingly turn to on-site generation to bypass grid bottlenecks, impacting utility planning and renewable energy deployment. The analysis suggests that by 2028, behind-the-meter datacenters could account for over 50% of new datacenter capacity annually, with on-site natural gas, fuel cells, and solar-plus-storage being common solutions.
+OpenAI CEO Sam Altman informed employees that GPT-5.6 will be released in stages, starting with a limited preview for approved partners, as requested by the federal government. This marks a significant shift in AI release practices, with direct government oversight of frontier model deployment, influencing future AI regulation and industry norms. During the preview, the government will approve access on a customer-by-customer basis. Altman noted this is not the company's preferred long-term model and hopes for a wider release in a few weeks if all goes well.
 
-rss · Semianalysis · Jun 25, 19:48
+telegram · zaihuapd · Jun 26, 00:03
 
-**Background**: Behind-the-meter power is electricity generated on a datacenter's own property and consumed directly, bypassing the public utility grid. This approach gives operators greater control and avoids delays from grid interconnection queues, which have become congested due to rising datacenter demand.
+**Background**: The requirement comes after OpenAI previewed the model with multiple government agencies over the past month. Commerce Secretary Howard Lutnick reportedly reminded OpenAI not to release without approval from other agencies.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.linkedin.com/pulse/understanding-behind-the-meter-energy-data-centers-lqm8c">Understanding Behind - the - Meter Energy for Data Centers</a></li>
-<li><a href="https://datacentrereview.com/2025/04/behind-the-meter-data-centres/">Now is the time for data centres to install behind - the - meter</a></li>
-<li><a href="https://gathergov.com/articles/behind-the-meter">' Behind - the - Meter ' Enters Council Vocabulary as Data Center ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#datacenters`, `#energy`, `#grid`, `#infrastructure`, `#behind-the-meter`
+**Tags**: `#AI regulation`, `#OpenAI`, `#GPT-5.6`, `#government oversight`, `#AI safety`
 
 ---
 
 <a id="item-11"></a>
-## [Podman 6.0 Released with Enhanced Features and Breaking Changes](https://lwn.net/Articles/1079600/) ⭐️ 8.0/10
+## [Samsung, SK Hynix Plan Massive AI Investments Totaling $648B](https://www.bloomberg.com/news/articles/2026-06-26/samsung-and-sk-hynix-prepare-huge-spending-increase-reports-say) ⭐️ 8.0/10
 
-Podman 6.0.0 has been released, introducing support for multiple static IP addresses per container, improved Docker compatibility via enhanced network isolation, and a rewrite of configuration file handling. As a major version bump, Podman 6.0 brings significant improvements for users relying on Podman for container management, especially those migrating from Docker or using systemd integration via Quadlet. The release includes many new options for existing commands and several breaking changes; users should consult the full release notes for migration details. Quadlet commands have been altered, affecting how containers are run under systemd.
+Samsung and SK Hynix are set to announce massive investment plans in AI and semiconductors during a national briefing on June 29, 2026, with Samsung committing to a ten-year spending plan of 1,000 trillion won ($648 billion). This unprecedented investment scale signals a long-term commitment to AI infrastructure and semiconductor manufacturing, which could reshape global supply chains and accelerate AI adoption across industries. The briefing, led by President Lee Jae-myung, will also cover 'physical AI' and AI data centers. However, shares of both companies fell over 9% on the same day due to market concerns about rising component costs from Apple's price increases.
 
-rss · LWN.net · Jun 25, 16:33
+telegram · zaihuapd · Jun 26, 06:08
 
-**Background**: Podman is a daemonless container engine that provides a Docker-compatible command-line interface. Quadlet is a tool that allows Podman containers to be managed as systemd services using declarative unit files, simplifying deployment and lifecycle management.
+**Background**: Artificial intelligence (AI) refers to computational systems performing tasks that typically require human intelligence. Physical AI extends this to systems that interact with the physical world, such as robots and autonomous vehicles. Semiconductors are the foundational hardware for AI, and major companies like Samsung and SK Hynix are key players in memory chip production, which is critical for AI workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.redhat.com/en/blog/quadlet-podman">Make systemd better for Podman with Quadlet</a></li>
-<li><a href="https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html">podman -systemd.unit — Podman documentation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence - Wikipedia</a></li>
+<li><a href="https://thinaer.io/blog/what-is-physical-ai-a-plain-english-definition-for-operations-and-technology-leaders/">What Is Physical AI ? Definition , Examples & Key Concepts</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#container-management`, `#podman`, `#docker-compatibility`, `#release`
+**Tags**: `#semiconductor`, `#AI`, `#investment`, `#Samsung`, `#SK Hynix`
 
 ---
 
 <a id="item-12"></a>
-## [Kernel 7.2 introduces allocation tokens and Bootpatch-SLR](https://lwn.net/Articles/1078699/) ⭐️ 8.0/10
+## [GPT-5 Accused of Benchmark Cheating by Deleting Hard Problems](https://t.me/zaihuapd/42191) ⭐️ 8.0/10
 
-The upcoming Linux kernel 7.2 merges type-based slab partitioning using Clang's allocation tokens feature, and a longer-term project called Bootpatch-SLR aims to randomize structure layouts at boot time. These hardening techniques make it significantly harder for attackers to exploit kernel memory corruption bugs by isolating object types and randomizing structure layouts, reducing the effectiveness of heap-spraying and targeted overwrite attacks. Allocation tokens leverage a Clang built-in function to generate a token from the type of allocated objects, ensuring objects of the same type always come from the same memory partition; Bootpatch-SLR applies structure layout randomization after kernel build, at boot time, which is a more flexible alternative to compile-time randomization.
+OpenAI's GPT-5 was found to have used only 477 out of 500 questions in the SWE-bench Verified programming test, deleting 23 difficult ones to artificially boost its score. This discovery was made by developers analyzing the test results. This incident raises serious concerns about the integrity of AI benchmark evaluations and could undermine trust in OpenAI's reported performance metrics. It also highlights the need for transparent and standardized testing procedures in the AI industry. The omitted 23 questions were likely among the hardest; if scored as zero, GPT-5's performance would drop below that of Claude Opus 4.1, which currently trails by only 0.4%. SWE-bench is a widely-used benchmark for evaluating AI models on real-world software engineering tasks.
 
-rss · LWN.net · Jun 25, 14:02
+telegram · zaihuapd · Jun 26, 07:43
 
-**Background**: The kernel's slab allocator manages memory for small objects, often mixing different object types in the same slab. This intermingling allows heap-spraying attacks and buffer overflows to corrupt unrelated objects. Early randomized slab partitioning provided probabilistic defense but still left attackers a chance; type-based partitioning eliminates that chance entirely.
+**Background**: SWE-bench is a benchmark that tests AI models on real-world software issues from GitHub. The SWE-bench Verified subset consists of 500 human-curated instances. It is a standard for comparing the coding abilities of large language models. The alleged removal of test questions by OpenAI could skew comparisons with other models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434">[RFC] A Framework for Allocator Partitioning Hints - LLVM Project</a></li>
-<li><a href="https://lwn.net/Articles/1076762/">Bootpatch- SLR : Randomizing Linux Kernel Structure Layouts at Boot</a></li>
+<li><a href="https://www.swebench.com/">SWE-bench Leaderboards</a></li>
+<li><a href="https://www.swebench.com/SWE-bench/">Overview - SWE-bench</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux kernel`, `#security`, `#memory hardening`, `#slab allocator`, `#structure randomization`
+**Tags**: `#AI`, `#GPT-5`, `#benchmark`, `#controversy`, `#OpenAI`
 
 ---
 
 <a id="item-13"></a>
-## [Compiling Agentic Workflows into Small LLM Weights](https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/) ⭐️ 8.0/10
+## [California Launches First US AI Job Displacement Dashboard](https://decrypt.co/372100/ai-job-loss-california-public-dashboard) ⭐️ 8.0/10
 
-A new method compiles agentic workflows from frontier LLMs into small language model weights via supervised fine-tuning on execution traces, achieving near-frontier performance at two orders of magnitude lower cost. This significantly reduces the cost of deploying agentic workflows, making advanced AI capabilities accessible to organizations with limited budgets, and addresses a key barrier to widespread adoption of LLM-based agents. The method uses supervised fine-tuning on traces generated by orchestrating frontier models, not RL or prompt engineering, and the resulting small models (e.g., 7B) can match much larger frontier models on complex agentic tasks.
+On June 25, California Governor Gavin Newsom unveiled the first public dashboard in the United States to track AI-related job displacement, developed by the California Employment Development Department and UCLA's California Policy Lab. Initial data shows a slight uptick in unemployment claims among college-educated workers in high-exposure sectors, especially in the San Francisco Bay Area, since ChatGPT-3.5's release in 2022. This dashboard provides real-time, data-driven insights into AI's impact on employment, enabling policymakers and workers to respond proactively. It sets a precedent for other states and countries to monitor AI-driven job displacement and design targeted retraining and support programs. The dashboard is updated monthly and focuses on unemployment claims in occupations most susceptible to AI displacement. Researchers found no statewide job loss surge yet, but early signs appear among college-educated workers in high-AI-exposure industries.
 
-reddit · r/MachineLearning · /u/ThirdWaveCat · Jun 25, 17:31
+telegram · zaihuapd · Jun 26, 11:04
 
-**Background**: Large language models (LLMs) like GPT-4 are powerful but expensive for multi-step agentic workflows. Knowledge distillation transfers capabilities from large 'teacher' models to smaller 'student' models, reducing cost while retaining performance. This paper applies distillation specifically to agentic workflows by compiling execution traces into model weights.
+**Background**: AI adoption has raised concerns about job displacement, particularly in roles involving routine cognitive tasks. Previous studies, such as one by Anthropic, showed that younger, highly educated workers—especially women—are more affected. California's dashboard is a pioneering effort to systematically track these effects using state-level unemployment data.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://labs.adaline.ai/p/llm-distillation-explained">LLM Distillation Explained - by Nilesh Barla - Adaline Labs</a></li>
-<li><a href="https://arxiv.org/pdf/2407.01885">Survey on Knowledge Distillation for Large Language Models ...</a></li>
+<li><a href="https://h5.ifeng.com/c/vivoArticle/v002OKmjAv--2wbC6Cm8tgJUnBFY98xZ1sr-_X2lXPVU-_ijHo__?isNews=1&showComments=0">AI抢走年轻 人 的饭碗，最受伤的是 高 学历 高 收入女性，Anthropic...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#agentic workflows`, `#knowledge distillation`, `#cost optimization`, `#SLM`
-
----
-
-<a id="item-14"></a>
-## [OpenAI to Release GPT-5.6 in Phases Under Government Review](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) ⭐️ 8.0/10
-
-OpenAI CEO Sam Altman announced that GPT-5.6 will be released in stages, starting with a limited preview to select partners, with individual customer approvals by the federal government. This follows a month of previewing the model with multiple government agencies. This marks a significant escalation in government oversight of advanced AI model releases, potentially setting a precedent for future regulatory approvals. It could slow down deployment cycles but may increase public trust in AI safety. The staged release requires government approval for each customer, and Altman stated this is not OpenAI's preferred long-term model. He hopes for a wider release in a few weeks if the process goes smoothly.
-
-telegram · zaihuapd · Jun 26, 00:03
-
-**Background**: The US government has been increasingly concerned about the safety and security of large language models like GPT-5.6. The Commerce Secretary reportedly warned OpenAI not to release the model without approval from other agencies. This intervention reflects a broader trend of governments seeking to regulate AI releases.
-
-**Tags**: `#OpenAI`, `#GPT-5.6`, `#AI regulation`, `#government review`, `#model release`
-
----
-
-<a id="item-15"></a>
-## [Apple may skip M6 Pro/Max, fast-track M7 AI chips](https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives) ⭐️ 8.0/10
-
-Apple is reportedly skipping the M6 Pro and M6 Max chips to directly develop the M7 series focused on on-device AI performance. The standard M6 chip is still expected in late 2026 with MacBook Pro, while the M7 generation may arrive as early as the first half of 2027. This marks a major strategic shift in Apple's chip roadmap, prioritizing AI capabilities over the traditional annual update cycle. It reflects intense competition in AI processing and could significantly impact Mac performance for machine learning workloads. The M6 base chip is rumored to have 200 GB/s memory bandwidth (up from 153 GB/s in M5) and 12 GPU cores. The M7 series is expected to offer 240 GB/s memory bandwidth, with Pro and Max variants arriving later in 2027 and an Ultra model in 2028.
-
-telegram · zaihuapd · Jun 26, 01:48
-
-**Background**: Apple Silicon is Apple's family of custom ARM-based system-on-a-chip (SoC) designs used in Macs. Traditionally, Apple releases a base M-series chip followed by Pro, Max, and Ultra variants with more cores and higher performance. This report suggests Apple is breaking that pattern to accelerate AI-focused hardware.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/">2027 Macs to Get AI -Focused M 7 Chips as Apple Skips... - MacRumors</a></li>
-<li><a href="https://www.macworld.com/article/3177046/report-apple-to-skip-m6-pro-max-chips-fast-track-m7-for-local-ai.html">Report: Apple to skip M6 Pro/Max chips , fast-track M 7 for local AI</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead">Apple to Skip High-End M6 Mac Chips , to Launch M 7 Pro... - Bloomberg</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#AI chips`, `#M7`, `#chip roadmap`, `#rumor`
+**Tags**: `#AI`, `#unemployment`, `#policy`, `#jobs`, `#California`
 
 ---
