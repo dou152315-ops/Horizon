@@ -9,19 +9,13 @@
     "max_tokens": 8192,
     "throttle_sec": 1,
     "languages": [
-      "zh",
-      "en"
+      "zh"
     ],
     "analysis_concurrency": 5,
     "enrichment_concurrency": 5
   },
   "sources": {
     "github": [
-      {
-        "type": "user_events",
-        "username": "karpathy",
-        "enabled": true
-      },
       {
         "type": "repo_releases",
         "owner": "vllm-project",
@@ -39,37 +33,55 @@
         "owner": "triton-lang",
         "repo": "triton",
         "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "ollama",
+        "repo": "ollama",
+        "enabled": true
       }
     ],
     "hackernews": {
-      "enabled": true,
-      "fetch_top_stories": 30,
+      "enabled": false,
+      "fetch_top_stories": 20,
       "min_score": 150
     },
     "rss": [
       {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
+        "name": "AI 中文资讯",
+        "url": "https://news.google.com/rss/search?q=AI+OR+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+OR+AIGC&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "AI 产品与工具",
+        "url": "https://news.google.com/rss/search?q=AI%E5%B7%A5%E5%85%B7+OR+AI%E4%BA%A7%E5%93%81+OR+%E6%99%BA%E8%83%BDAgent&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "ai-tools"
       },
       {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "name": "短视频运营",
+        "url": "https://news.google.com/rss/search?q=%E7%9F%AD%E8%A7%86%E9%A2%91%E8%BF%90%E8%90%A5+OR+%E5%86%85%E5%AE%B9%E8%BF%90%E8%90%A5+OR+%E7%9B%B4%E6%92%AD%E8%BF%90%E8%90%A5&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
-        "category": "github-trending"
+        "category": "short-video"
       },
       {
-        "name": "Semianalysis",
-        "url": "https://newsletter.semianalysis.com/feed",
+        "name": "抖音运营",
+        "url": "https://news.google.com/rss/search?q=%E6%8A%96%E9%9F%B3%E8%BF%90%E8%90%A5+OR+%E5%B7%A8%E9%87%8F%E5%BC%95%E6%93%8E+OR+%E6%8A%96%E9%9F%B3%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
-        "category": "semiconductors"
+        "category": "douyin"
       },
       {
-        "name": "LWN.net",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": false,
-        "category": "linux-kernel"
+        "name": "抖音本地生活",
+        "url": "https://news.google.com/rss/search?q=%E6%8A%96%E9%9F%B3%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB+OR+%E6%8A%96%E7%9C%81%E7%9C%81+OR+%E5%88%B0%E5%BA%97%E5%9B%A2%E8%B4%AD&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "douyin-local"
+      },
+      {
+        "name": "本地生活与团购",
+        "url": "https://news.google.com/rss/search?q=%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB+OR+%E5%88%B0%E5%BA%97%E5%9B%A2%E8%B4%AD+OR+%E9%A4%90%E9%A5%AE%E5%9B%A2%E8%B4%AD&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "local-life"
       }
     ],
     "reddit": {
@@ -96,22 +108,42 @@
       "fetch_comments": 10
     },
     "telegram": {
-      "enabled": true,
-      "channels": [
-        {
-          "channel": "zaihuapd",
-          "enabled": true,
-          "fetch_limit": 20
-        }
-      ]
+      "enabled": false,
+      "channels": []
     }
   },
   "filtering": {
-    "ai_score_threshold": 8.0,
-    "time_window_hours": 24
+    "ai_score_threshold": 7.5,
+    "time_window_hours": 24,
+    "max_items": 20,
+    "category_groups": {
+      "ai": {
+        "limit": 8,
+        "categories": [
+          "ai",
+          "ai-tools"
+        ]
+      },
+      "short_video": {
+        "limit": 5,
+        "categories": [
+          "short-video",
+          "douyin"
+        ]
+      },
+      "local_life": {
+        "limit": 7,
+        "categories": [
+          "douyin-local",
+          "local-life"
+        ]
+      }
+    },
+    "default_group": "other",
+    "default_group_limit": 2
   },
   "webhook": {
-    "enabled": false,
+    "enabled": true,
     "url_env": "HORIZON_WEBHOOK_URL",
     "delivery": "summary_and_items",
     "overview_position": "last",
